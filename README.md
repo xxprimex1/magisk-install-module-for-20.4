@@ -1,0 +1,1 @@
+# magisk-install-module-for-20.4
