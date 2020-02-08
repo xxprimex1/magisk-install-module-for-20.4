@@ -53,7 +53,7 @@ minMagisk=20300`
 
 
 
-## **magisk20.4模版.zip/system中，**
+## **magisk20.4模版.zip/system中，请自建**
 
 这个文件夹是直接替换system的，不需要用户同意，当然也是挂载，复制到$MODPATH/system，也就是上文on_install的作用
 
